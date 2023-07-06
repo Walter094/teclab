@@ -1,0 +1,23 @@
+
+{
+"OrderId":15689,
+"Adress": "Mosconi 3982",
+"Status": "En preparacion",
+"Articles": [
+    {
+"name":"Smartphone",
+"Quantity":3,
+"Dangerous":false,
+    }
+    {
+"name":"Auriculares",
+"Quantity":5,
+"Dangerous":false,
+    }
+    {
+"name":"Baterías",
+"Quantity":8,
+"Dangerous":true,
+    }
+]
+}
